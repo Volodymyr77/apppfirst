@@ -1,0 +1,7 @@
+{
+  "name": "apppfirst",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
