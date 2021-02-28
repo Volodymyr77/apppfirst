@@ -12,5 +12,7 @@ export class HomePage {
 
   vibe() {
 
+    this.vibration.vibrate([1000, 500, 1000, 500, 1000])
+
   }
 }
